@@ -49,7 +49,7 @@
   "peerDependenciesMeta": {
     "supports-color": {
       "optional": true
-    }
+    }.
   },
   "main": "./src/index.js",
   "browser": "./src/browser.js",
